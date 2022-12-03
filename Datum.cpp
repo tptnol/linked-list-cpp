@@ -4,7 +4,7 @@
  * 
  * src file for Datum
  */
-#include "../include/Datum.h"
+#include "Datum.h"
 //Default constructor
 Datum::Datum()
 {
