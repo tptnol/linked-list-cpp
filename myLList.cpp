@@ -4,7 +4,7 @@
  * 
  * src file for myLList
  */
-#include "../include/myLList.h"
+#include "myLList.h"
 //Default Constructor
 myLList::myLList()
 {
